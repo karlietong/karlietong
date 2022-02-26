@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karlietong
 - 👀 I’m interested in becoming a self-taught full-stack developer.
-- 🌱 I’m currently a pharmacy graduate student, but learning how to code on the side.
+- 🌱 I’m currently a pharmacy graduate student with a growing passion for coding.
 - 💞️ I’m looking to collaborate on any entry-level projects. 
 - 📫 How to reach me ...https://www.linkedin.com/in/karlie-tong-11b1751ab/
 
